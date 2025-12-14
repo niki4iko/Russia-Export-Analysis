@@ -1,1 +1,5 @@
-data_raw/RUStoWorldTrade.csv
+# Ignore system files
+*.log
+*.tmp
+*.bak
+
